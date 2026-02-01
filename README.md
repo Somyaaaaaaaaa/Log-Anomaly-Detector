@@ -116,7 +116,7 @@ The notebook walks through:
 
 -------
 
-License
+## License
 
 This project is intended for educational and research purposes.
 
